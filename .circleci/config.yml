@@ -7,7 +7,7 @@ jobs:
     steps:
       - checkout
       - run:
-          name: Ruqweqwennning tests
+          name: Runnning tests
           command: |
             virtualenv venv
             . venv/bin/activate
